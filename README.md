@@ -8,7 +8,7 @@ Fresh graduate Full Stack Developer expertise in web development methodologies. 
 
 * 🌍  I'm based in Cairo, EGY
 * ✉️  You can contact me at [eng.gamalsobhi@gmail.com](mailto:eng.gamalsobhi@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm a full stack developer using react.js && Laravel 
 
 ### Skills
 
